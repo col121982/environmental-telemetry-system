@@ -55,6 +55,10 @@ COM-005: The system shall target reliable wireless telemetry communication over 
 
 COM-006: Loss of wireless communication shall not prevent the remote station from continuing to collect and store environmental data.
 
+COM-007: The system shall retain unsent telemetry records and transmit them after wireless communication is restored.
+
+COM-008: Allow the computer/ground station to send commands back to the remote station.
+
 ### 2.6 Deployment
 
 DEP-001: The remote station shall be portable and suitable for temporary outdoor deployment.
